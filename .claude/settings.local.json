@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(tar -czf \"../ai-self-documentary.tar.gz\" --exclude=\"node_modules\" --exclude=\".next\" --exclude=\"venv\" --exclude=\"__pycache__\" --exclude=\".git\" .)",
+      "Read(//c/Users/biglol/Desktop/개발/**)",
+      "Bash(npm run:*)",
+      "Bash(python -c \":*)",
+      "Bash(python -c \"from app.data.era_db import ERA_DATABASE; print\\(''OK:'', len\\(ERA_DATABASE\\), ''decades''\\)\")",
+      "Bash(python -c \"from app.data.era_db import ERA_DATABASE; [print\\(f''{k}: keywords={len\\(v[\"\"cultural_keywords\"\"]\\)}, visuals={len\\(v[\"\"visual_elements\"\"]\\)}, events={len\\(v[\"\"historical_events\"\"]\\)}''\\) for k,v in ERA_DATABASE.items\\(\\)]\")",
+      "Bash(npm install:*)",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''app/api/try_flow.py''\\).read\\(\\)\\); print\\(''try_flow.py: syntax OK''\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''app/api/try_flow.py'', encoding=''utf-8''\\).read\\(\\)\\); print\\(''try_flow.py: syntax OK''\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''app/api/__init__.py'', encoding=''utf-8''\\).read\\(\\)\\); print\\(''__init__.py: syntax OK''\\)\")",
+      "Bash(npx tsc:*)"
+    ]
+  },
+  "enabledPlugins": {
+    "bkit@bkit-marketplace": true
+  }
+}

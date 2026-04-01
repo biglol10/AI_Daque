@@ -1,0 +1,2022 @@
+{
+  "version": "3.0",
+  "lastUpdated": "2026-03-31T22:09:02.153Z",
+  "activeFeatures": [
+    "ai-self-documentary",
+    "frontend",
+    "backend",
+    "core",
+    "api",
+    "stores",
+    "auth",
+    "profile",
+    "login",
+    "signup",
+    "callback",
+    "(main)",
+    "dashboard",
+    "graphs",
+    "nodes",
+    "guardrails",
+    "data",
+    "pipeline",
+    "interview",
+    "[era]",
+    "__init__.py",
+    "narrative_engine.py",
+    "narrative",
+    "template",
+    "story",
+    "character_service.py",
+    "background_service.py",
+    "generation",
+    "character",
+    "voice_service.py",
+    "ui",
+    "voice",
+    "composition_service.py",
+    "documentary",
+    "generate",
+    "preview",
+    "project",
+    "new",
+    "[projectId]",
+    "privacy",
+    "terms",
+    "try",
+    "scripts"
+  ],
+  "primaryFeature": "ai-self-documentary",
+  "features": {
+    "ai-self-documentary": {
+      "name": "AI 셀프 다큐멘터리",
+      "phase": "archived",
+      "matchRate": 93,
+      "iterationCount": 1,
+      "startedAt": "2026-03-30T14:02:05.307Z",
+      "archivedAt": "2026-03-31T02:00:00.000Z",
+      "archivedTo": "docs/archive/2026-03/ai-self-documentary/",
+      "documents": {
+        "prd": "docs/archive/2026-03/ai-self-documentary/ai-self-documentary.prd.md",
+        "plan": "docs/archive/2026-03/ai-self-documentary/ai-self-documentary.plan.md",
+        "analysis": "docs/archive/2026-03/ai-self-documentary/ai-self-documentary.analysis.md",
+        "report": "docs/archive/2026-03/ai-self-documentary/ai-self-documentary.report.md",
+        "design": "docs/archive/2026-03/ai-self-documentary/ai-self-documentary.design.md"
+      }
+    },
+    "frontend": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:00:56.345Z",
+        "lastUpdated": "2026-03-31T14:40:07.150Z"
+      },
+      "lastFile": "c:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\middleware.ts"
+    },
+    "backend": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:01:22.436Z",
+        "lastUpdated": "2026-03-31T14:28:25.917Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\backend\\app\\main.py"
+    },
+    "core": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:01:27.522Z",
+        "lastUpdated": "2026-03-31T14:28:08.109Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\backend\\app\\core\\config.py"
+    },
+    "api": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:01:30.901Z",
+        "lastUpdated": "2026-03-31T14:35:47.011Z"
+      },
+      "lastFile": "c:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\backend\\app\\api\\__init__.py"
+    },
+    "stores": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:08:36.318Z",
+        "lastUpdated": "2026-03-31T13:12:06.501Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\stores\\projectStore.ts"
+    },
+    "auth": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:09:12.308Z",
+        "lastUpdated": "2026-03-30T15:09:30.675Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/components/auth/SignupForm.tsx"
+    },
+    "profile": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:09:52.918Z",
+        "lastUpdated": "2026-03-30T15:11:12.463Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/components/profile/ProfileForm.tsx"
+    },
+    "login": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:09:59.921Z",
+        "lastUpdated": "2026-03-30T15:09:59.921Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(auth)/login/page.tsx"
+    },
+    "signup": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:10:03.043Z",
+        "lastUpdated": "2026-03-30T15:10:03.043Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(auth)/signup/page.tsx"
+    },
+    "callback": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:10:09.446Z",
+        "lastUpdated": "2026-03-30T15:10:09.446Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(auth)/callback/page.tsx"
+    },
+    "(main)": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:10:23.116Z",
+        "lastUpdated": "2026-03-30T15:10:23.116Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(main)/layout.tsx"
+    },
+    "dashboard": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:10:29.161Z",
+        "lastUpdated": "2026-03-30T23:28:06.233Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(main)/dashboard/page.tsx"
+    },
+    "graphs": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:16:58.109Z",
+        "lastUpdated": "2026-03-31T12:54:35.065Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\backend\\app\\graphs\\interview_graph.py"
+    },
+    "nodes": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:16:59.296Z",
+        "lastUpdated": "2026-03-31T13:07:11.128Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\backend\\app\\graphs\\nodes\\summarize.py"
+    },
+    "guardrails": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:17:00.479Z",
+        "lastUpdated": "2026-03-30T23:02:02.018Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/backend/app/guardrails/voice_consent.py"
+    },
+    "data": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:17:01.652Z",
+        "lastUpdated": "2026-03-31T13:21:05.832Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\backend\\app\\data\\era_db.py"
+    },
+    "pipeline": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:17:02.819Z",
+        "lastUpdated": "2026-03-30T15:17:02.819Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/backend/app/pipeline/__init__.py"
+    },
+    "interview": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:20:52.179Z",
+        "lastUpdated": "2026-03-31T12:53:06.583Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\app\\api\\interview\\route.ts"
+    },
+    "[era]": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:21:34.293Z",
+        "lastUpdated": "2026-03-31T00:22:54.174Z"
+      },
+      "lastFile": "C:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(main)/projects/[projectId]/story/[era]/page.tsx"
+    },
+    "__init__.py": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:38:00.798Z",
+        "lastUpdated": "2026-03-30T15:38:00.798Z"
+      },
+      "lastFile": "C:/Users/biglol/Desktop/개발/side_project_with_agent/backend/app/services/__init__.py"
+    },
+    "narrative_engine.py": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:38:20.197Z",
+        "lastUpdated": "2026-03-30T15:38:20.197Z"
+      },
+      "lastFile": "C:/Users/biglol/Desktop/개발/side_project_with_agent/backend/app/services/narrative_engine.py"
+    },
+    "narrative": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:38:55.218Z",
+        "lastUpdated": "2026-03-31T12:53:13.296Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\app\\api\\narrative\\route.ts"
+    },
+    "template": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:39:09.712Z",
+        "lastUpdated": "2026-03-30T15:39:25.301Z"
+      },
+      "lastFile": "C:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/components/template/TemplateForm.tsx"
+    },
+    "story": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:39:44.648Z",
+        "lastUpdated": "2026-03-31T00:23:18.553Z"
+      },
+      "lastFile": "C:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/components/story/StoryEditor.tsx"
+    },
+    "character_service.py": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:58:23.823Z",
+        "lastUpdated": "2026-03-30T15:58:23.823Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/backend/app/services/character_service.py"
+    },
+    "background_service.py": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:58:41.779Z",
+        "lastUpdated": "2026-03-30T15:58:41.779Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/backend/app/services/background_service.py"
+    },
+    "generation": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:59:25.995Z",
+        "lastUpdated": "2026-03-31T12:53:21.039Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\app\\api\\generation\\route.ts"
+    },
+    "character": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T15:59:57.327Z",
+        "lastUpdated": "2026-03-31T00:24:07.764Z"
+      },
+      "lastFile": "C:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(main)/projects/[projectId]/character/page.tsx"
+    },
+    "voice_service.py": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:01:54.705Z",
+        "lastUpdated": "2026-03-30T23:01:54.705Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/backend/app/services/voice_service.py"
+    },
+    "ui": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:02:34.691Z",
+        "lastUpdated": "2026-03-30T23:02:46.233Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/components/ui/checkbox.tsx"
+    },
+    "voice": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:03:18.570Z",
+        "lastUpdated": "2026-03-31T12:53:35.954Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\app\\api\\voice\\route.ts"
+    },
+    "composition_service.py": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:14:40.294Z",
+        "lastUpdated": "2026-03-30T23:14:40.294Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/backend/app/services/composition_service.py"
+    },
+    "documentary": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:15:30.207Z",
+        "lastUpdated": "2026-03-31T12:53:49.158Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\app\\api\\documentary\\route.ts"
+    },
+    "generate": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:17:15.604Z",
+        "lastUpdated": "2026-03-30T23:17:15.604Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(main)/projects/[projectId]/generate/page.tsx"
+    },
+    "preview": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:17:31.386Z",
+        "lastUpdated": "2026-03-30T23:17:31.386Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(main)/projects/[projectId]/preview/page.tsx"
+    },
+    "project": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:27:23.221Z",
+        "lastUpdated": "2026-03-30T23:27:51.425Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/components/project/EraTimeline.tsx"
+    },
+    "new": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:28:11.926Z",
+        "lastUpdated": "2026-03-30T23:28:11.926Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(main)/projects/new/page.tsx"
+    },
+    "[projectId]": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-30T23:28:37.710Z",
+        "lastUpdated": "2026-03-30T23:28:37.710Z"
+      },
+      "lastFile": "c:/Users/biglol/Desktop/개발/side_project_with_agent/frontend/src/app/(main)/projects/[projectId]/page.tsx"
+    },
+    "privacy": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-31T14:19:23.709Z",
+        "lastUpdated": "2026-03-31T14:19:23.709Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\app\\(main)\\privacy\\page.tsx"
+    },
+    "terms": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-31T14:20:14.455Z",
+        "lastUpdated": "2026-03-31T14:20:14.455Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\app\\(main)\\terms\\page.tsx"
+    },
+    "try": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-31T14:38:08.806Z",
+        "lastUpdated": "2026-03-31T22:09:02.152Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\frontend\\src\\app\\try\\page.tsx"
+    },
+    "scripts": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-31T22:07:18.956Z",
+        "lastUpdated": "2026-03-31T22:07:18.956Z"
+      },
+      "lastFile": "C:\\Users\\biglol\\Desktop\\개발\\side_project_with_agent\\scripts\\generate_presets.py"
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Dynamic",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-03-30T14:01:50.861Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-03-31T22:09:02.153Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-03-30T15:00:56.347Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:00:59.966Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:01:22.438Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:01:27.523Z",
+      "feature": "core",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:01:29.302Z",
+      "feature": "core",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:01:30.903Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:01:35.427Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:01:36.591Z",
+      "feature": "core",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:08:32.162Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:08:36.320Z",
+      "feature": "stores",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:08:45.724Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:08:52.003Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:09:02.545Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:09:12.309Z",
+      "feature": "auth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:09:19.427Z",
+      "feature": "auth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:09:30.677Z",
+      "feature": "auth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:09:52.919Z",
+      "feature": "profile",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:09:59.923Z",
+      "feature": "login",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:10:03.045Z",
+      "feature": "signup",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:10:09.448Z",
+      "feature": "callback",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:10:23.117Z",
+      "feature": "(main)",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:10:29.163Z",
+      "feature": "dashboard",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:10:30.325Z",
+      "feature": "profile",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:11:09.851Z",
+      "feature": "dashboard",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:11:11.299Z",
+      "feature": "profile",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:11:12.465Z",
+      "feature": "profile",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:12:45.536Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:12:55.050Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:13:27.051Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:16:58.111Z",
+      "feature": "graphs",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:16:59.298Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:17:00.481Z",
+      "feature": "guardrails",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:17:01.654Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:17:02.821Z",
+      "feature": "pipeline",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:17:05.431Z",
+      "feature": "graphs",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:17:12.719Z",
+      "feature": "guardrails",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:17:15.439Z",
+      "feature": "guardrails",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:17:22.540Z",
+      "feature": "guardrails",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:17:43.981Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:17:56.640Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:18:01.875Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:18:17.746Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:18:19.234Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:18:23.878Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:18:39.070Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:18:54.496Z",
+      "feature": "graphs",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:19:21.464Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:19:27.707Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:19:49.190Z",
+      "feature": "graphs",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:20:43.255Z",
+      "feature": "stores",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:20:52.181Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:21:00.777Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:21:24.284Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:21:34.295Z",
+      "feature": "[era]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:38:00.800Z",
+      "feature": "__init__.py",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:38:20.198Z",
+      "feature": "narrative_engine.py",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:38:29.192Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:38:39.994Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:38:55.219Z",
+      "feature": "narrative",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:39:09.713Z",
+      "feature": "template",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:39:25.302Z",
+      "feature": "template",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:39:44.649Z",
+      "feature": "story",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:39:46.117Z",
+      "feature": "story",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:39:59.622Z",
+      "feature": "[era]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:57:42.501Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:57:52.453Z",
+      "feature": "guardrails",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:58:23.825Z",
+      "feature": "character_service.py",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:58:41.781Z",
+      "feature": "background_service.py",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:59:00.663Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:59:07.827Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:59:25.996Z",
+      "feature": "generation",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T15:59:57.328Z",
+      "feature": "character",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T16:00:11.952Z",
+      "feature": "character",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T16:00:34.789Z",
+      "feature": "character",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:01:54.706Z",
+      "feature": "voice_service.py",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:02:02.020Z",
+      "feature": "guardrails",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:02:16.338Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:02:24.370Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:02:34.692Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:02:39.834Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:02:43.196Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:02:46.234Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:03:18.571Z",
+      "feature": "voice",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:03:44.140Z",
+      "feature": "voice",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:04:13.006Z",
+      "feature": "voice",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:04:27.553Z",
+      "feature": "voice",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:04:36.505Z",
+      "feature": "voice",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:04:54.400Z",
+      "feature": "voice",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:05:58.782Z",
+      "feature": "voice",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:14:40.296Z",
+      "feature": "composition_service.py",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:15:05.369Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:15:11.413Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:15:15.863Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:15:30.208Z",
+      "feature": "documentary",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:16:00.295Z",
+      "feature": "generation",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:16:14.325Z",
+      "feature": "documentary",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:16:25.420Z",
+      "feature": "documentary",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:17:15.605Z",
+      "feature": "generate",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:17:31.387Z",
+      "feature": "preview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:18:11.906Z",
+      "feature": "generation",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:18:22.783Z",
+      "feature": "generation",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:26:54.120Z",
+      "feature": "stores",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:27:01.931Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:27:23.222Z",
+      "feature": "project",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:27:29.768Z",
+      "feature": "project",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:27:38.048Z",
+      "feature": "project",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:27:51.426Z",
+      "feature": "project",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:28:06.234Z",
+      "feature": "dashboard",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:28:11.927Z",
+      "feature": "new",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:28:37.711Z",
+      "feature": "[projectId]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:28:54.041Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:28:57.198Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:29:02.063Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:29:19.540Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-30T23:29:45.718Z",
+      "feature": "stores",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:20:59.018Z",
+      "feature": "core",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:21:09.221Z",
+      "feature": "core",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:21:20.997Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:21:31.307Z",
+      "feature": "generation",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:22:54.176Z",
+      "feature": "[era]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:22:58.794Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:06.497Z",
+      "feature": "character",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:18.554Z",
+      "feature": "story",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:25.913Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:27.479Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:35.339Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:37.489Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:40.233Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:48.467Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:53.625Z",
+      "feature": "character",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:56.153Z",
+      "feature": "character",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:58.183Z",
+      "feature": "character",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:23:59.529Z",
+      "feature": "character",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T00:24:07.765Z",
+      "feature": "character",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:49:02.756Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:49:08.974Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:49:16.352Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:49:22.311Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:49:28.442Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:49:39.986Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:49:46.273Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:49:52.294Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:50:08.698Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:50:15.759Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:50:22.524Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:50:28.953Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:50:50.732Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:50:56.676Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:51:04.022Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:51:11.661Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:51:17.924Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:51:25.479Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:51:44.054Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:51:55.838Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:52:02.111Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:52:08.340Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:52:49.388Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:53:06.584Z",
+      "feature": "interview",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:53:13.298Z",
+      "feature": "narrative",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:53:21.040Z",
+      "feature": "generation",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:53:35.955Z",
+      "feature": "voice",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:53:49.160Z",
+      "feature": "documentary",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:54:24.053Z",
+      "feature": "graphs",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:54:35.066Z",
+      "feature": "graphs",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:55:06.218Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:55:19.209Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:55:32.811Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T12:55:45.652Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:04:50.429Z",
+      "feature": "core",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:05:03.853Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:05:16.657Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:05:30.392Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:05:42.591Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:05:51.174Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:06:06.865Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:06:14.245Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:06:31.309Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:06:44.707Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:06:51.669Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:07:04.682Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:07:11.129Z",
+      "feature": "nodes",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:07:49.231Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:08:11.548Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:08:24.691Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:08:40.042Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:09:04.235Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:11:51.094Z",
+      "feature": "stores",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:11:59.717Z",
+      "feature": "stores",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:12:06.503Z",
+      "feature": "stores",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:12:57.553Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:15:36.266Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:15:42.698Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:15:52.404Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:15:58.844Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:16:07.795Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:16:14.090Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:16:21.265Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:16:30.183Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:16:37.044Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:16:44.882Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:16:56.823Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:17:04.172Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:19:07.594Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:19:20.974Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:19:38.400Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:19:55.891Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:20:14.078Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:20:45.684Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T13:21:05.834Z",
+      "feature": "data",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:19:23.711Z",
+      "feature": "privacy",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:20:14.458Z",
+      "feature": "terms",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:26:26.618Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:26:33.999Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:26:42.034Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:27:10.671Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:27:19.317Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:28:08.111Z",
+      "feature": "core",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:28:25.921Z",
+      "feature": "backend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:35:35.537Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:35:41.635Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:35:47.014Z",
+      "feature": "api",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:38:08.808Z",
+      "feature": "try",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:39:16.082Z",
+      "feature": "try",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:39:27.046Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:39:28.212Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T14:40:07.151Z",
+      "feature": "frontend",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T22:07:18.958Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T22:08:16.456Z",
+      "feature": "try",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T22:08:47.384Z",
+      "feature": "try",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-31T22:09:02.153Z",
+      "feature": "try",
+      "phase": "do",
+      "action": "updated"
+    }
+  ],
+  "stateMachine": {
+    "defaultWorkflow": "default",
+    "activeWorkflows": {},
+    "totalTransitions": 0
+  },
+  "automation": {
+    "globalLevel": 2,
+    "trustScore": 40,
+    "pendingApprovals": 0,
+    "lastGateResult": null
+  },
+  "team": {
+    "enabled": true,
+    "stateFile": ".bkit/runtime/agent-state.json",
+    "eventsFile": ".bkit/runtime/agent-events.jsonl"
+  }
+}
