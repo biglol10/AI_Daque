@@ -1,0 +1,14 @@
+[
+  {"id": "boy_child", "name": "소년", "image": "/presets/boy_child.png"},
+  {"id": "girl_child", "name": "소녀", "image": "/presets/girl_child.png"},
+  {"id": "boy_teen", "name": "남학생", "image": "/presets/boy_teen.png"},
+  {"id": "girl_teen", "name": "여학생", "image": "/presets/girl_teen.png"},
+  {"id": "man_young", "name": "청년 남성", "image": "/presets/man_young.png"},
+  {"id": "woman_young", "name": "청년 여성", "image": "/presets/woman_young.png"},
+  {"id": "man_middle", "name": "중년 남성", "image": "/presets/man_middle.png"},
+  {"id": "woman_middle", "name": "중년 여성", "image": "/presets/woman_middle.png"},
+  {"id": "man_senior", "name": "할아버지", "image": "/presets/man_senior.png"},
+  {"id": "woman_senior", "name": "할머니", "image": "/presets/woman_senior.png"},
+  {"id": "person_glasses", "name": "안경 쓴 사람", "image": "/presets/person_glasses.png"},
+  {"id": "person_creative", "name": "크리에이터", "image": "/presets/person_creative.png"}
+]
